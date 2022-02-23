@@ -1,0 +1,1 @@
+python ../Python/vaccination-population-ratio-generator.py

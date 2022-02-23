@@ -1,0 +1,1 @@
+python ../Python/vaccinated-count-generator.py

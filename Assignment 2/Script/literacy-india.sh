@@ -1,0 +1,1 @@
+python ../Python/literacy-india.py
